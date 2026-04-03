@@ -1,5 +1,7 @@
 # Hi, I'm Vraj 👋
-
+![Java](https://img.shields.io/badge/Java-Backend-red)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Framework-green)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 🚀 Java Backend Developer | Spring Boot | REST APIs
 💡 Passionate about building scalable and secure backend systems
 
@@ -68,3 +70,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Vraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistryvraj1793&show_icons=true)

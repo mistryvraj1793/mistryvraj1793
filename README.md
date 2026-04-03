@@ -1,3 +1,57 @@
+# Hi, I'm Vraj 👋
+
+🚀 Java Backend Developer | Spring Boot | REST APIs
+💡 Passionate about building scalable and secure backend systems
+
+---
+
+## 🔧 Tech Stack
+
+* Java
+* Spring Boot
+* Hibernate
+* MySQL
+* REST APIs
+* Spring Security
+
+---
+
+## 📌 Projects
+
+### 🔹 Smart-Intern: Internship Management System
+
+* Role-based authentication (Admin, Student, Mentor)
+* REST API-based backend system
+* Resume upload using Cloudinary
+* Email notifications using JavaMail API
+
+👉 GitHub Repo: https://github.com/mistryvraj1793/SmartIntern
+
+---
+
+### 🔹 E-Pass Web Application
+
+* Online bus pass system with authentication
+* Payment integration and admin module
+
+---
+
+## 📈 What I'm Learning
+
+* Microservices Architecture
+* AWS (Cloud Deployment)
+* Docker
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/mistry-vraj-08aa95270
+* GitHub: https://github.com/mistryvraj1793
+
+---
+
+⭐ Always open to opportunities in Backend Development!
 ## Hi there 👋
 
 <!--
